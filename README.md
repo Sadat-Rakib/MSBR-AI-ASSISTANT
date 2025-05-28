@@ -3,11 +3,11 @@
 # 🚀 MSBR AI Assistant 🤖
 
 - MSBR (My Smart Bot Responder) is a futuristic, voice-activated AI assistant built with HTML, CSS, and JavaScript. Inspired by sci-fi legends like JARVIS, MSBR uses the Web Speech API to listen to your commands and respond with a sleek, neon-lit interface powered by particle animations. Open websites, set timers, perform calculations, or enjoy a joke—all with your voice! 🌌
-✨ Features.
+  
+# ✨ Features:- 
 
 - 🎙️ Voice Interaction: Speak commands and hear responses using SpeechRecognition and SpeechSynthesis.
-
-# 🛠️ Commands:
+- 🛠️ Commands:
 - 🌐 Open websites: Google, YouTube, Spotify, Reddit, Wikipedia, and more!
 - 🔍 Search the web or Wikipedia with custom queries.
 - ⏰ Check time, date, or set timers with live countdowns.
