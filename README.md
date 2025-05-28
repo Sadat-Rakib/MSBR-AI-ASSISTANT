@@ -8,12 +8,12 @@
 
 - 🎙️ Voice Interaction: Speak commands and hear responses using SpeechRecognition and SpeechSynthesis.
 - 🛠️ Commands:
-- 🌐 Open websites: Google, YouTube, Spotify, Reddit, Wikipedia, and more!
-- 🔍 Search the web or Wikipedia with custom queries.
-- ⏰ Check time, date, or set timers with live countdowns.
-- ➕ Perform calculations (e.g., "calculate 5 plus 3").
-- 😄 Tell jokes for a quick laugh.
-- 🔇 Toggle sound with a cool icon switch.
+  - 🌐 Open websites: Google, YouTube, Spotify, Reddit, Wikipedia, and more!
+  - 🔍 Search the web or Wikipedia with custom queries.
+  - ⏰ Check time, date, or set timers with live countdowns.
+  - ➕ Perform calculations (e.g., "calculate 5 plus 3").
+  - 😄 Tell jokes for a quick laugh.
+  - 🔇 Toggle sound with a cool icon switch.
 
 🎨 Futuristic UI: Neon cyan and magenta vibes, particle animations, and responsive design.
 ♿ Accessibility: ARIA attributes for screen reader support.
